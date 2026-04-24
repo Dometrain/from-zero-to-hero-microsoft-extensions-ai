@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="..\..\..\global.json" />
+    <File Path="..\..\..\Directory.Build.props" />
+    <File Path="..\..\..\Directory.Build.targets" />
+    <File Path="..\..\..\Directory.Packages.props" />
+    <File Path="..\..\..\.editorconfig" />
+  </Folder>
+  <Project Path="AiChatClient.Maui\AiChatClient.Maui.csproj" />
+  <Project Path="AiChatClient.UnitTests/AiChatClient.UnitTests.csproj" />
+</Solution>
